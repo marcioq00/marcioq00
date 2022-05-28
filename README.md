@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @marcioq00
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning CSS an JS
+- 🌱 I’m currently learning CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me test@gmail.com
 
