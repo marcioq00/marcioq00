@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mark
+Hi there, I'm Mark  👋
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning CSS and JS
 - 💞️ I’m looking to collaborate on ...
