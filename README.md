@@ -1,4 +1,4 @@
-Hi there, I'm Mark  👋
+<h1>Hi there, I'm Mark  👋</h1>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning CSS and JS
