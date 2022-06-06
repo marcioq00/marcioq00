@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning CSS and JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me test@gmail.com
+- 📫 How to reach me marek.joskowiak01@gmail.com
 
 ### Languages and Tools:
 
