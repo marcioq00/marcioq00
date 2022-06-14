@@ -3,7 +3,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning CSS and JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me marek.joskowiak01@gmail.com
+- 📫 How to reach me :
+  - mail: marek.joskowiak01@gmail.com
+  - linkedin: www.linkedin.com/in/marekjoskowiak
 
 ### Languages and Tools:
 
