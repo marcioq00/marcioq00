@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Mark  👋</h1>
 
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development the main learning path is the frontend
 - 🌱 I’m currently learning CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
