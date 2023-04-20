@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
   - mail: marek.joskowiak01@gmail.com
-  - linkedin: www.linkedin.com/in/marekjoskowiak
+  
  
 ### Languages and Tools:
 
