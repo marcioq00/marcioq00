@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Mark  👋</h1>
 
 - 👀 I’m interested in web development the main learning path is the frontend
-- 🌱 I’m currently learning React and Scss
+- 🌱 I’m currently learning SQL, T-SQL, JS, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
   - mail: marek.joskowiak01@gmail.com
