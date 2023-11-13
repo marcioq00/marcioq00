@@ -15,7 +15,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br /> <br />
 
-
+<img align="left" alt="Marcioq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcioq00&show_icons=true&hide_border=true&theme=tokyonight"/>
 <!---
 marcioq00/marcioq00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
